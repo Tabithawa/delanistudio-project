@@ -31,3 +31,32 @@
     background-size: cover;
     padding: 80px;    
 }
+.whatwedoheading{
+    text-align: center;
+    margin: 50px;
+    font-weight: bold;
+}
+.whatwedo{
+    margin-bottom: 50px;
+}
+.designshow{
+    text-align: center;
+}
+.designnotshow{
+    text-align: center;
+    display: none;
+}
+.devshow{
+    text-align: center;
+}
+.devnotshow{
+    text-align: center;
+    display: none;
+}
+.productshow{
+    text-align: center;
+}
+.productnotshow{
+    text-align: center;
+    display: none;
+}
