@@ -132,3 +132,14 @@
 textarea{
     width: 100%;
 }
+.handles{
+    margin-top: 50px;
+    margin-left: 25%;
+}
+.handles img{
+    padding: 10px;
+}
+
+.ending{
+    text-align: center;
+}
