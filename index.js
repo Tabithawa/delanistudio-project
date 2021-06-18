@@ -7,3 +7,7 @@ $(document).ready(function() {
         $(".devshow").toggle();
         $(".devnotshow").toggle();
     });
+    $(".clickable3").click(function() {
+        $(".productshow").toggle();
+        $(".productnotshow").toggle();
+    });
