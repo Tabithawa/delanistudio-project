@@ -134,6 +134,20 @@
             </div>
           </div>
         </div>
+    </div>
+      <!-- CONTACT US -->
+    <div class=" container-fluid contactus">
+        <h2>CONTACT US</h2>
+        <form  class="form-group inputForm"  method="POST">
+          <div class="row">
+            <input type="text" id="name" class="form-input col" placeholder ="Name..." required>
+            <input type="email" id="email" class="form-input col" placeholder="Email..." required>
+          </div>
+          <textarea id="textarea" class="form-input" placeholder="Your message here..." rows="8" required></textarea>
+          <button onclick="getInput();" type="submit">Send a message</button>
+          <br>
+          <button type="reset">Reset message</button>
+        </form>
       </div>
 </body>
 </html>
