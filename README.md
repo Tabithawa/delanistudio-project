@@ -11,6 +11,8 @@ This website is a landing page for Delani Studios
 *Javascript
 *Bootstrap
 *Jquery
+##Link to the website
+https://tabithawa.github.io/delanistudio-project/
 ## Support and contact details
 tabithawa@gmail.com
 ### License
