@@ -11,3 +11,8 @@ $(document).ready(function() {
         $(".productshow").toggle();
         $(".productnotshow").toggle();
     });
+    $(".port-image").hover(function(){
+        $(".imagetext" , this).slideToggle("slow");
+    });
+
+});
