@@ -60,3 +60,37 @@
     text-align: center;
     display: none;
 }
+.portfoliopart{
+    text-align: center;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.row2{
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+.para-text{
+    text-align: center;
+}
+.imagetext {
+    width: 60%;
+    height: 80%;
+    margin: 8%;
+    display: none;
+    position: absolute;
+    bottom: 0px;
+    background:black;
+    opacity: 0.8;
+    border: 3px solid white;
+    box-sizing: border-box;    
+}
+.imagetext p{
+    font-family: 'Do Hyeon', sans-serif;
+    text-align:left ;
+    font-weight: 400;
+    padding-top: 0px;
+    padding-left: 5px;
+    font-size: 30px;
+    color: white;
+   
+}
