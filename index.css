@@ -1,0 +1,33 @@
+.welcome{
+    color: white;
+    background-image: url(images/h_img.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    /* height: 1071px; */
+    margin-bottom: 50px;
+    padding-left: 50px;
+}
+.logo{
+    margin-top: 15%;
+}
+.mose{
+    margin-top: 15%;
+}
+.about h2{
+    font-weight: bold;
+}
+.about{
+    text-align: center;
+}
+.services h2{
+    font-weight: bold;
+}
+.services{
+    text-align: center;
+    color: white;
+    background-image: url(images/s_image.jpg);
+    width: 100%;
+    background-size: cover;
+    padding: 80px;    
+}
