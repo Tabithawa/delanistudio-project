@@ -94,3 +94,41 @@
     color: white;
    
 }
+.contactus{
+    text-align: center;
+    background-image: url(images/c_image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    width: 100%;
+}
+.contactus h2{
+    margin: 30px auto;
+}
+.inputForm{
+    width:70%;
+    margin: auto;
+    margin-bottom: 100px;
+}
+.form-input{
+    border: 1px solid white;
+    background-color: transparent;
+    background:transparent;
+    outline: none;
+    background-color: transparent;
+    color: white ;
+    font-weight: 500;
+}
+::placeholder{
+    color: white;
+}
+.col{
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+}
+textarea{
+    width: 100%;
+}
